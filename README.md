@@ -2,8 +2,6 @@
 
 DNA Preloader — a lightweight HTML/CSS/JavaScript preloader animation inspired by a DNA double-helix. Perfect for splash screens, loading states, or small portfolio projects.
 
-![Preview](./screenshot.png)
-
 ## Table of Contents
 - [Demo](#demo)
 - [Features](#features)
