@@ -1,6 +1,9 @@
 # DNA Preloader
 
-![Preview](./Screenshot%202024-07-02%20092938.png)
+<p float="left">
+  <img src="./Screenshot%202024-07-02%20092938.png" alt="Preview 1" width="360" />
+  <img src="./Screenshot%202024-07-02%20093027.png" alt="Preview 2" width="360" />
+</p>
 
 DNA Preloader — a lightweight HTML/CSS/JavaScript preloader animation inspired by a DNA double-helix. Perfect for splash screens, loading states, or small portfolio projects.
 
