@@ -1,5 +1,7 @@
 # DNA Preloader
 
+![Preview](./Screenshot%202024-07-02%20092938.png)
+
 DNA Preloader — a lightweight HTML/CSS/JavaScript preloader animation inspired by a DNA double-helix. Perfect for splash screens, loading states, or small portfolio projects.
 
 ## Table of Contents
@@ -34,10 +36,10 @@ Open `index.html` in your browser to see the preloader in action.
      (or use any static-file server / GitHub Pages)
 
 ## Usage
-If you want to embed the preloader into another project, copy the relevant files from this repo (HTML snippet, `styles.css`, and any JS file used to toggle the loader). A minimal example:
+If you want to embed the preloader into another project, copy the relevant files from this repo (HTML snippet, `style.css`, and any JS file used to toggle the loader). A minimal example:
 
 1. Include the CSS in your page:
-   <link rel="stylesheet" href="path/to/styles.css">
+   <link rel="stylesheet" href="path/to/style.css">
 
 2. Add the preloader markup to your HTML (example):
    <div id="preloader" class="dna-preloader">
@@ -45,7 +47,7 @@ If you want to embed the preloader into another project, copy the relevant files
    </div>
 
 3. Optionally use the provided JavaScript to hide the preloader once your content is ready:
-   <script src="path/to/preloader.js"></script>
+   <script src="path/to/script.js"></script>
 
 (Adjust file names/paths to match the ones in this repository.)
 
